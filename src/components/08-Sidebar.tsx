@@ -4,7 +4,7 @@ export default function Sidebar() {
       <h2 className="text-2xl font-bold mb-4 text-center text-dark-pink">
         About Me
       </h2>
-      {/* <div className="flex justify-center items-center">
+      <div className="flex justify-center items-center">
         <div className="relative mb-4">
           <img
             src="/test.jpg"
@@ -14,7 +14,7 @@ export default function Sidebar() {
           />
           <div className="bg-green-500 rounded-full w-8 h-8 shadow-md absolute bottom-2 right-2"></div>
         </div>
-      </div> */}
+      </div>
       <div className="bg-light-blue rounded-md text-dark-black p-4">
         <div className="grid grid-cols-2 gap-4 mb-4">
           <div className="bg-dark-blue px-2 py-1 font-bold rounded-md">Age</div>
